@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">Hi! I’m Pamela, a student of Analysis and Systems Development (ADS) with a strong passion for both design and development.<br><br>My journey in tech started during high school, where I completed a technical course in IT — and that was when I realized I had found my place.<br>
-  
+<p align="left">Hi! I’m Pamela, a student of Analysis and Systems Development (ADS) with a strong passion for both design and development.
   <div align="center">
   <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG54dHp5d3NoaW9yd25qbW10MjU5YmNrcjJ4dHd4aWI1ODBpcXhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif"  />
-    
 </div>
-<br>Today, I’m focused on becoming a fullstack developer, combining my love for logic and problem-solving with my eye for user experience and clean interfaces.<br><br>I truly believe that great code and great design go hand in hand — and I’m always seeking to improve on both fronts.</p> 
+Today, I’m focused on becoming a fullstack developer, combining my love for logic and problem-solving with my eye for user experience and clean interfaces.<br><br>I truly believe that great code and great design go hand in hand — and I’m always seeking to improve on both fronts.</p> 
 
 
 
@@ -41,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="26" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="45" alt="php logo"  />
 </div>
 
 ###
