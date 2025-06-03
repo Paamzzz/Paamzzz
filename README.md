@@ -14,9 +14,7 @@ Today, I’m focused on becoming a fullstack developer, combining my love for lo
 
 ### 🌱 I'm currently learning...
 
-- 🐍 Python  
 - 💻 JavaScript  
-- ☕ Java  
 - ⚛️ Planning to dive into React and Node.js soon  
 - 🎨 UX/UI fundamentals to craft better user experiences  
 
