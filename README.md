@@ -1,11 +1,5 @@
 <h2 align="center">⭐ Hi! I'm Pamela, nice to meet you! ⭐</h2>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paamzzz&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paamzzz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
 ###
 
 <p align="left">Hi! I'm Pamela, a student of Analysis and Systems Development (ADS) with a strong passion for both design and development.
