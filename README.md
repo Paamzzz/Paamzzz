@@ -1,6 +1,5 @@
 <h2 align="center">⭐ Hi! I'm Pamela, nice to meet you! ⭐</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paamzzz&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paamzzz&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
