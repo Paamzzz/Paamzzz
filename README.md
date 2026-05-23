@@ -8,9 +8,6 @@
 </div>
 
 <p align="left">Hi! I'm Pamela, a student of Analysis and Systems Development (ADS) with a strong passion for both design and development.
-  <div align="center">
-    <img align="right" height="300" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG54dHp5d3NoaW9yd25qbW10MjU5YmNrcjJ4dHd4aWI1ODBpcXhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" />
-  </div>
   Today, I'm focused on becoming a fullstack developer, combining my love for logic and problem-solving with my eye for user experience and clean interfaces.<br><br>
   I truly believe that great code and great design go hand in hand, and I'm always seeking to improve on both fronts.
 </p>
@@ -52,6 +49,11 @@
 </div>
 
 ###
+
+<h2 align="left">My Streak</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Paamzzz&theme=modern-lilac2" alt="GitHub Streak" /></a>
+</div>
 
 <h2 align="left">Check out my Social Media</h2>
 
