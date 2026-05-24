@@ -64,7 +64,7 @@
 
 
 
-### 📊 My GitHub stats
+### ✧˚ ༘ ⋆ My GitHub stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
